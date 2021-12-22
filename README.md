@@ -1,2 +1,2 @@
-# caijiangqian.github.io
-This is my blog
+# my_blog
+ This is my blog
